@@ -9,8 +9,9 @@ These were the sites used by me [Canvas Bootcamp](https://courses.bootcampspot.c
 
 ## Results
 **Conclusions about Theater Outcomes by Launch Date**
-        -Number of cancelations was always under 10, and the successful percentage was up of 40% 
-        -December was the month with less Grand Total with a total of 75, but the rest of the months were up of 88 and maximum 166. 
+
+        - Number of cancelations was always under 10, and the successful percentage was up of 40% 
+        - December was the month with less Grand Total with a total of 75, but the rest of the months were up of 88 and maximum 166. 
     
             
   
